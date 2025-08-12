@@ -15,6 +15,12 @@ This project is made for learning purposes and **does not** actually shorten URL
 - **CSS** – Styling and layout.
 - **JavaScript** – Logic for generating fake short links and copying them.
 
+## 🚀 How to Run the Project in VS Code
+1. Open the project folder in VS Code.  
+2. Install the **Live Server** extension (if not already installed).  
+3. Right-click `1html.html` → **Open with Live Server**.  
+4. Your project will open in the browser.  
+
 ## 📸 Screenshot
 project screenshot(https://github.com/snehashekoba24/shortify/blob/main/project%20screenshot.png?raw=true)
 
