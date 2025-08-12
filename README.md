@@ -16,6 +16,7 @@ This project is made for learning purposes and **does not** actually shorten URL
 - **JavaScript** – Logic for generating fake short links and copying them.
 
 ## 📸 Screenshot
+project screenshot(https://github.com/snehashekoba24/shortify/blob/main/project%20screenshot.png?raw=true)
 
 
 ## 🚀 How It Works
