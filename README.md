@@ -17,6 +17,7 @@ This project is made for learning purposes and **does not** actually shorten URL
 
 ## 📸 Screenshot
 
+
 ## 🚀 How It Works
 1. User enters a long URL in the input field.
 2. JavaScript generates a random short code.
